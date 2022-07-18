@@ -1,0 +1,32 @@
+.header {
+
+    grid-area: h;
+    background-color: burlywood;
+
+
+}
+
+.headernew{
+    grid-area: h;
+     padding-top: 90px;
+padding-left: 200px;
+}
+
+.header img{
+
+    width: 200px;
+    height: 180px;
+
+    }
+
+.loginBlock {
+
+float: right;
+
+}
+.loginBlock a {
+
+
+    color: white;
+}
+

@@ -1,0 +1,9 @@
+.photos {
+  width: 200px;
+  height: 180px;
+  padding-bottom: 5px;
+  padding-left: 15px;
+}
+.flex-container {
+  display: flex;
+}
